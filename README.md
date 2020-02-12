@@ -1,15 +1,4 @@
-### Date created
-Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+1- added python code file and ignored the csv data files
+2- Updated the python code by changing the message asking for user for city name
+3- created a new branc callled refacctoring
+4- updated the readme file indicating the last change in the python code
